@@ -9,10 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
-      "index",
+    "groups": [
       {
-        "group": "Getting Started",
+        "group": "备个梯子",
         "pages": [
           "index"
         ]
