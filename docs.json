@@ -19,8 +19,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/bigtizi.svg",
+    "dark": "/images/bigtizidark.svg"
   },
   "navbar": {
     "links": [],
