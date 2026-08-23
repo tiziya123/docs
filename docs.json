@@ -10,19 +10,16 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "pages": [
+      "index",
+      {
+        "group": "Getting Started",
+        "pages": []
+      },
       {
         "group": "Getting Started",
         "pages": [
           "index",
           "quickstart"
-        ]
-      }
-    ],
-    "groups": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index"
         ]
       }
     ]
